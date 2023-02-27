@@ -1,0 +1,265 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 449320777,
+            "message": {
+                "message_id": 11828,
+                "from": {
+                    "id": 5869884602,
+                    "is_bot": false,
+                    "first_name": "Francisco Jose",
+                    "last_name": "Cabello G",
+                    "username": "franciscojose29",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5869884602,
+                    "first_name": "Francisco Jose",
+                    "last_name": "Cabello G",
+                    "username": "franciscojose29",
+                    "type": "private"
+                },
+                "date": 1677265143,
+                "voice": {
+                    "duration": 1,
+                    "mime_type": "audio/ogg",
+                    "file_id": "AwACAgEAAxkBAAIuNGP5CPfF7QHDMIfHJCukqn0zDuEBAAL2AgACSrTIR2EaxpVv1Q6pLgQ",
+                    "file_unique_id": "AgAD9gIAAkq0yEc",
+                    "file_size": 27621
+                }
+            }
+        },
+        {
+            "update_id": 449320778,
+            "message": {
+                "message_id": 11829,
+                "from": {
+                    "id": 5869884602,
+                    "is_bot": false,
+                    "first_name": "Francisco Jose",
+                    "last_name": "Cabello G",
+                    "username": "franciscojose29",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5869884602,
+                    "first_name": "Francisco Jose",
+                    "last_name": "Cabello G",
+                    "username": "franciscojose29",
+                    "type": "private"
+                },
+                "date": 1677265174,
+                "text": "flebosmin"
+            }
+        },
+        {
+            "update_id": 449320779,
+            "message": {
+                "message_id": 11830,
+                "from": {
+                    "id": 5869884602,
+                    "is_bot": false,
+                    "first_name": "Francisco Jose",
+                    "last_name": "Cabello G",
+                    "username": "franciscojose29",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5869884602,
+                    "first_name": "Francisco Jose",
+                    "last_name": "Cabello G",
+                    "username": "franciscojose29",
+                    "type": "private"
+                },
+                "date": 1677265191,
+                "text": "analgesico"
+            }
+        },
+        {
+            "update_id": 449320786,
+            "message": {
+                "message_id": 11841,
+                "from": {
+                    "id": 5085521422,
+                    "is_bot": false,
+                    "first_name": "OlgaMarina",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5085521422,
+                    "first_name": "OlgaMarina",
+                    "type": "private"
+                },
+                "date": 1677267564,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 449320787,
+            "message": {
+                "message_id": 11842,
+                "from": {
+                    "id": 5085521422,
+                    "is_bot": false,
+                    "first_name": "OlgaMarina",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5085521422,
+                    "first_name": "OlgaMarina",
+                    "type": "private"
+                },
+                "date": 1677267568,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 449320788,
+            "message": {
+                "message_id": 11843,
+                "from": {
+                    "id": 5085521422,
+                    "is_bot": false,
+                    "first_name": "OlgaMarina",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5085521422,
+                    "first_name": "OlgaMarina",
+                    "type": "private"
+                },
+                "date": 1677267584,
+                "text": "Breinox 800 mg"
+            }
+        },
+        {
+            "update_id": 449320794,
+            "message": {
+                "message_id": 11854,
+                "from": {
+                    "id": 5085521422,
+                    "is_bot": false,
+                    "first_name": "OlgaMarina",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5085521422,
+                    "first_name": "OlgaMarina",
+                    "type": "private"
+                },
+                "date": 1677268127,
+                "text": "Piracetam 800mg"
+            }
+        },
+        {
+            "update_id": 449320796,
+            "message": {
+                "message_id": 11857,
+                "from": {
+                    "id": 5085521422,
+                    "is_bot": false,
+                    "first_name": "OlgaMarina",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5085521422,
+                    "first_name": "OlgaMarina",
+                    "type": "private"
+                },
+                "date": 1677268144,
+                "text": "Piracetam"
+            }
+        },
+        {
+            "update_id": 449320797,
+            "message": {
+                "message_id": 11858,
+                "from": {
+                    "id": 5085521422,
+                    "is_bot": false,
+                    "first_name": "OlgaMarina",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5085521422,
+                    "first_name": "OlgaMarina",
+                    "type": "private"
+                },
+                "date": 1677268201,
+                "text": "Metformina"
+            }
+        },
+        {
+            "update_id": 449320798,
+            "message": {
+                "message_id": 11859,
+                "from": {
+                    "id": 5085521422,
+                    "is_bot": false,
+                    "first_name": "OlgaMarina",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5085521422,
+                    "first_name": "OlgaMarina",
+                    "type": "private"
+                },
+                "date": 1677268219,
+                "text": "Ibuprofeno"
+            }
+        },
+        {
+            "update_id": 449320799,
+            "message": {
+                "message_id": 11860,
+                "from": {
+                    "id": 5085521422,
+                    "is_bot": false,
+                    "first_name": "OlgaMarina",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5085521422,
+                    "first_name": "OlgaMarina",
+                    "type": "private"
+                },
+                "date": 1677268236,
+                "text": "Alcohol"
+            }
+        },
+        {
+            "update_id": 449320800,
+            "message": {
+                "message_id": 11861,
+                "from": {
+                    "id": 5085521422,
+                    "is_bot": false,
+                    "first_name": "OlgaMarina",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5085521422,
+                    "first_name": "OlgaMarina",
+                    "type": "private"
+                },
+                "date": 1677268260,
+                "text": "Agua oxigenada"
+            }
+        }
+    ]
+}
